@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-shawnehgn10%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shawnehgn10@gmail.com)
 
 ## About Me
-I'm a passionate web developer focused on building efficient and scalable solutions. When I'm not coding, you can find me playing with my 6 cats! 🐱
+I'm a passionate web developer focused on building efficient and scalable solutions. When I'm not coding, you can find me playing dota 2 or reading mangas! 😁
 
 ### 🚀 What I Do
 - Full-stack Web Development
