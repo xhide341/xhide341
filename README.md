@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Shawn (@xhide341)
+# 👋 Hello, I'm Shawne (@xhide341)
 
 [![Email](https://img.shields.io/badge/Email-shawnehgn10%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shawnehgn10@gmail.com)
 
