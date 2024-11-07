@@ -1,9 +1,6 @@
 # 👋 Hi, I’m Shawne!  
 
 [![Email](https://img.shields.io/badge/Email-shawnehgn10%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shawnehgn10@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://yourportfolio.com)  
-
----
 
 ## 🚀 About Me  
 Hi there! I’m a web developer who loves turning ideas into reality through clean, efficient code. I love building things that make life easier, whether it’s a cool website, a helpful bot, or automating boring stuff. If I’m not coding, I’m probably listening to music or reading a manga. 😄
