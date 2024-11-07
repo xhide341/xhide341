@@ -1,7 +1,3 @@
-Here’s the updated version with your preferences:
-
----
-
 # 👋 Hi, I’m Shawne!  
 
 [![Email](https://img.shields.io/badge/Email-shawnehgn10%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shawnehgn10@gmail.com)  
