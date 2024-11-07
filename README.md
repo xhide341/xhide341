@@ -23,7 +23,7 @@ I'm a passionate web developer focused on building efficient and scalable soluti
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="[https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white](https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png)" alt="Firebase" />
+  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="Firebase" />
 </p>
 
 #### Tools
