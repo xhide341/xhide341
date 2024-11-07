@@ -5,15 +5,11 @@
 ## 🚀 About Me  
 Hi there! I’m a web developer who loves turning ideas into reality through clean, efficient code. I love building things that make life easier, whether it’s a cool website, a helpful bot, or automating boring stuff. If I’m not coding, I’m probably listening to music or reading a manga. 😄
 
----
-
 ## 💻 What I Do
 - **Making websites** that look great and work fast  
 - **Automating tasks** to save time and sanity  
 - **Building bots** (yes, even ones that crack jokes)  
 - **Playing with AI** to create smart solutions  
-
----
 
 ## 🛠️ Tech I Use  
 
@@ -41,22 +37,16 @@ Hi there! I’m a web developer who loves turning ideas into reality through cle
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
----
-
 ## 🌱 What I’m Learning  
 - **Advanced Laravel magic** 🪄  
 - **Cool PHP tricks** to write better code  
 - **How to make apps scale like a boss** 💪  
-
----
 
 ## 🎯 2024 Goals  
 - [ ] Master Laravel’s secrets 🔐  
 - [ ] Finish my capstone project 🎓  
 - [ ] Contribute to open-source projects 🌍  
 - [ ] Build something awesome with AI 🤖  
-
----
 
 ## ⚡ Fun Facts
 - 6 cats adopted me 🐱
