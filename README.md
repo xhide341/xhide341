@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-Web developer by day, **Dota 2 enthusiast** by night 🎮. I love building things that make life easier, whether it’s a cool website, a helpful bot, or automating boring stuff. If I’m not coding, I’m probably reading a manga. 😄
+Hi there! I’m a web developer who loves turning ideas into reality through clean, efficient code. I love building things that make life easier, whether it’s a cool website, a helpful bot, or automating boring stuff. If I’m not coding, I’m probably reading a manga. 😄
 
 ---
 
