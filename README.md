@@ -12,13 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-shawnehgn10%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shawnehgn10@gmail.com)  
 
 ## 🚀 About Me  
-Hi there! I’m a web developer who loves turning ideas into reality through clean, efficient code. I love building things that make life easier, whether it’s a cool website, a helpful bot, or automating boring stuff. If I’m not coding, I’m probably listening to music or reading a manga. 😄
-
-## 💻 What I Do
-- **Making websites** that look great and work fast  
-- **Automating tasks** to save time and sanity  
-- **Building bots** (yes, even ones that crack jokes)  
-- **Playing with AI** to create smart solutions  
+Hi there! I’m a web developer who loves turning ideas into reality through clean, efficient code. I love building things that make life easier, whether it’s a cool website, a helpful bot, or automating boring stuff.
 
 ## 🛠️ Tech I Use  
 
@@ -30,11 +24,6 @@ Hi there! I’m a web developer who loves turning ideas into reality through cle
 | **Database**      | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) |
 | **Version Control**| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Tools**         | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) |
-
-## ⚡ Fun Facts
-- 6 cats adopted me 🐱
-- Love automating stuff so I can be lazy smarter  
-- Always curious and learning new things 🚀  
 
 ---
 
