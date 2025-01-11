@@ -1,12 +1,3 @@
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/xhide341"
-  width="600"
-  height="300"
-/>
-</a>
-
-
 # 👋 Hi, I’m Shawne!  
 
 [![Email](https://img.shields.io/badge/Email-shawnehgn10%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shawnehgn10@gmail.com)  
