@@ -31,18 +31,6 @@ Hi there! I’m a web developer who loves turning ideas into reality through cle
 | **Version Control**| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Tools**         | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
-
-## 🌱 What I’m Learning  
-- **Advanced Laravel magic** 🪄  
-- **Cool PHP tricks** to write better code  
-- **How to make apps scale like a boss** 💪  
-
-## 🎯 2024 Goals  
-- [ ] Master Laravel’s secrets 🔐  
-- [ ] Finish my capstone project 🎓  
-- [ ] Contribute to open-source projects 🌍  
-- [ ] Build something awesome with AI 🤖  
-
 ## ⚡ Fun Facts
 - 6 cats adopted me 🐱
 - Love automating stuff so I can be lazy smarter  
