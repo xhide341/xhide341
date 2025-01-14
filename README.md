@@ -1,7 +1,7 @@
-## 🚀 About Me  
+### 🚀 About Me  
 Hi there! I’m a web developer who loves turning ideas into reality through clean, efficient code.
 
-## 🛠️ Tech I Use
+### 🛠️ Tech I Use
 
 | **Category**       | **Tech Stack**                                                                                                                                                             |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -14,9 +14,9 @@ Hi there! I’m a web developer who loves turning ideas into reality through cle
 | **Tools**           | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) |
 | **AI Frameworks**   | ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square) |
 
-### I also utilize packages and APIs that greatly enhance the UI/UX aspect of design. Most notably motion, particlejs, and many more!
+I also utilize packages and APIs that greatly enhance the UI/UX aspect of design. Most notably motion, particlejs, and many more!
 
-If you are interested in some of my recent works, please check out my website:
+If you are interested in some of my recent works, please check out my public repositories.
 
 [![Email](https://img.shields.io/badge/Email-shawnehgn10%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shawnehgn10@gmail.com)  
 
