@@ -14,7 +14,6 @@ Hi there! I’m a web developer who loves turning ideas into reality through cle
 | **Tools**           | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) |
 | **AI Frameworks**   | ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square) |
 
-I also utilize packages and APIs that greatly enhance my projects. I use most notably motion, a little bit of threejs, and different design principles depending on the theme.
 
 If you are interested in some of my recent works, please check out my public repositories.
 
