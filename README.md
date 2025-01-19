@@ -14,13 +14,11 @@ Hi there! I’m a web developer who loves turning ideas into reality through cle
 | **Tools**           | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) |
 | **AI Frameworks**   | ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square) |
 
-
-If you are interested in some of my recent works, please check out my public repositories.
+### 💡 My Work
+I am more of a specialist than a generalist. While I value depth in my expertise, I remain open to exploring new ideas and innovative approaches to broaden my perspective and enhance my craft.
 
 [![Email](https://img.shields.io/badge/Email-shawnehgn10%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shawnehgn10@gmail.com)  
 
 ---
 
-<p align="center">
-🔭 Currently working on something cool
-</p>
+<p align="center"><em>"For when a man knows not what port he sails, no wind is favorable."</em></p>
