@@ -15,7 +15,8 @@ Hi there! I’m a web developer who loves turning ideas into reality through cle
 | **AI Frameworks**   | ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square) |
 
 ### 💡 My Works
-[https://astra-ai-iota.vercel.app/ -](https://astra-ai-iota.vercel.app/) - AI Learning App designed for Observational Learning.
+[https://astra-ai-iota.vercel.app/](https://astra-ai-iota.vercel.app/) - AI Learning App designed for Observational Learning.
+
 https://github.com/xhide341/eventsphere - Event Management System with Filamentphp-integrated Admin Dashboard.
 
 
