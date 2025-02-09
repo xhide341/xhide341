@@ -1,4 +1,4 @@
-Hi there! I’m a web developer who loves turning ideas into reality through clean, efficient code.
+👋 Hi there! I’m a web developer and I like writing clean code.
 
 | **Category**       | **Tech Stack**                                                                                                                                                             |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
