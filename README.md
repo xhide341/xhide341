@@ -1,7 +1,4 @@
-### 🚀 About Me  
 Hi there! I’m a web developer who loves turning ideas into reality through clean, efficient code.
-
-### 🛠️ Tech I Use
 
 | **Category**       | **Tech Stack**                                                                                                                                                             |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
