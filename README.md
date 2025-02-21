@@ -12,5 +12,4 @@
 | **AI Frameworks**   | ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square) |
 
 ---
-<p> i am continously learning </p>
 <p align="center"><em>"For when a man knows not what port he sails, no wind is favorable."</em></p>
