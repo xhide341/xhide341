@@ -1,4 +1,8 @@
 👋 Hi there! I’m a web developer and I like writing clean code.
+- I use **pnpm**  
+- I support **open source**  
+- I wash dishes at home
+- I'm a firm believer in **AI** being the ultimate rubber duck  
 
 | **Category**       | **Tech Stack**                                                                                                                                                             |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
