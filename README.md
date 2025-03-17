@@ -4,7 +4,7 @@
 - support **open source**!  
 - AI is the ultimate rubber duck
 - coding 365/365 for 2025 <>
-- minmaxxing career and happiness
+- minmaxxing career and learning
 
 | **Category**       | **Tech Stack**                                                                                                                                                             |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
