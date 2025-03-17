@@ -1,9 +1,10 @@
 👋 Hi there! I’m a web developer and I like writing clean code.
 - **pnpm** enjoyer
 - **snake_case** and **kebab-case** supremacy
-- Support **open source**!  
+- support **open source**!  
 - AI is the ultimate rubber duck
-- Coding 365/365 for 2025 <>
+- coding 365/365 for 2025 <>
+- minmaxxing career and happiness
 
 | **Category**       | **Tech Stack**                                                                                                                                                             |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
