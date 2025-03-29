@@ -1,4 +1,4 @@
-👋 Hi there! I’m a web developer and I like writing clean code.
+👋 Hi, I code for food.
 - **npm/pnpm**
 - **snake_case** and **kebab-case** supremacy
 - support **open source**  
