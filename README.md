@@ -1,9 +1,7 @@
 👋 Hi, I code for food.
 - **npm/pnpm**
-- **snake_case** and **kebab-case** supremacy
 - support **open source**  
 - AI is the ultimate rubber duck
-- coding 365/365 for 2025 <>
 - unhealthily minmaxxing everything
 
 | **Category**       | **Tech Stack**                                                                                                                                                             |
