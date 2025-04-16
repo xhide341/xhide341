@@ -1,8 +1,4 @@
 👋 Hi, I code for food.
-- **npm/pnpm**
-- support **open source**  
-- AI is the ultimate rubber duck
-- unhealthily minmaxxing everything
 
 | **Category**       | **Tech Stack**                                                                                                                                                             |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
