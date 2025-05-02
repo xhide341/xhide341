@@ -1,4 +1,4 @@
-👋 Hi, I code for food.
+Hi, I code for food 👋 
 
 ![](https://komarev.com/ghpvc/?username=xhide341&abbreviated=true)
 | **Category**       | **Tech Stack**                                                                                                                                                             |
