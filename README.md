@@ -1,4 +1,4 @@
-Hi, I code for food and coffee :D
+Hi, I code for food and coffee
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xhide341&abbreviated=true)
 
