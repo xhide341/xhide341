@@ -1,4 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
-  <img src="./light_mode.svg" alt="GitHub profile statistics for xhide341">
-</picture>
+<a href="https://github.com/xhide341/xhide341">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <img alt="xhide341's GitHub Profile README" src="./light_mode.svg">
+  </picture>
+</a>
