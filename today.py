@@ -831,7 +831,7 @@ def main():
     # Keep the boolean cache flag in the last slot untouched and format only the displayed LOC values.
     total_loc[:-1] = [f"{value:,}" for value in total_loc[:-1]]
 
-    sync_time_str = datetime.datetime.now().strftime("LAST SYNC: %m.%d.%y // %H:%M")
+    sync_time_str = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime("LAST SYNC: %m.%d.%y // %H:%M")
 
     update_svg_files(
         age_data,
