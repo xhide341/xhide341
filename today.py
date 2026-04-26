@@ -575,6 +575,7 @@ def svg_overwrite(
     contrib_data,
     follower_data,
     loc_data,
+    sync_time_str,
 ):
     tree = load_svg_tree(filename)
     root = tree.getroot()
@@ -599,6 +600,7 @@ def svg_overwrite(
         "commit_stats_gap",
         secondary_stat_gap(commit_stats_left_width(commit_data)),
     )
+    find_and_replace(root, "sync_time", sync_time_str)
     tree.write(filename, encoding="utf-8", xml_declaration=True)
 
 
@@ -754,6 +756,7 @@ def update_svg_files(
     contrib_data,
     follower_data,
     loc_data,
+    sync_time_str,
 ):
     for svg_file in SVG_FILES:
         svg_overwrite(
@@ -765,6 +768,7 @@ def update_svg_files(
             contrib_data,
             follower_data,
             loc_data,
+            sync_time_str,
         )
 
 
@@ -827,6 +831,8 @@ def main():
     # Keep the boolean cache flag in the last slot untouched and format only the displayed LOC values.
     total_loc[:-1] = [f"{value:,}" for value in total_loc[:-1]]
 
+    sync_time_str = datetime.datetime.now().strftime("LAST SYNC: %m.%d.%y // %H:%M")
+
     update_svg_files(
         age_data,
         commit_data,
@@ -835,6 +841,7 @@ def main():
         contrib_data,
         follower_data,
         total_loc[:-1],
+        sync_time_str,
     )
 
     total_runtime = (
