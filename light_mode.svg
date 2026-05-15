@@ -47,7 +47,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="30">- xhide341.is-a.dev</tspan> -————————————————————————————————————-—-
 
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Theme Preference</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Dark</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................................... </tspan><tspan class="value" id="age_data">23y 10m 4d</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................................... </tspan><tspan class="value" id="age_data">23y 10m 5d</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Memory</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">~2.5 PB</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Config</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Clarity, Creativity, Precision</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Learning, Building</tspan>
@@ -77,5 +77,5 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">GitHub LOC</tspan>:<tspan class="cc" id="loc_data_dots"> ................ </tspan><tspan class="value" id="loc_data">1,162,540</tspan> ( <tspan class="addColor">+</tspan><tspan class="addColor" id="loc_add">1.34M</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor">-</tspan><tspan class="delColor" id="loc_del">179K</tspan> )
 </text>
 
-<text x="965" y="515" fill="#6e7781" font-size="10px" text-anchor="end" id="sync_time">LAST SYNC: 05.14.26 // 13:56</text>
+<text x="965" y="515" fill="#6e7781" font-size="10px" text-anchor="end" id="sync_time">LAST SYNC: 05.15.26 // 14:03</text>
 </svg>
